@@ -35,3 +35,15 @@
 * OnCommand Shift - VM Converter, basically.
 * CPOC - Design Slaves
 * E-Series, cheap no frills storage for single application use, EF is high perf, low latency
+
+## Day 2
+
+* Get notes from Jon/Vero for the start of the day
+* StorageGRID, object storage - scalable, NFS, CIFS, S3 and Swift
+* OpenStack + Docker integration with E-Series, ONTAP and SolidFire
+* ConfigEdge - list price checker/config
+* Tech Refresh Tool - can check on existing estate and then also poruce a refresh document as to what they should buy to up them to a newer, better performing SAN
+    * Uses AutoSupport
+    * Checks to see if anything can be reused in new SAN
+* Field Portal, pre-salesy documentation technical resources, product bulletins
+* NetApp Labs on Demand, can be spun for multiple days - can also just *use* it
