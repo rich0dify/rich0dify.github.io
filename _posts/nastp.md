@@ -53,7 +53,7 @@ categories: notes
 * Field Portal, pre-salesy documentation technical resources, product bulletins
 * NetApp Labs on Demand, can be spun for multiple days - can also just *use* it
 
-##### NASTP Answers
+## NASTP Answers
 Q. Which buyers are increasingly becoming the dicison makers for 3rd plat apps?
 A. Line of business owners
 
