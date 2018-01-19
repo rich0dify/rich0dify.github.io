@@ -47,3 +47,134 @@
     * Checks to see if anything can be reused in new SAN
 * Field Portal, pre-salesy documentation technical resources, product bulletins
 * NetApp Labs on Demand, can be spun for multiple days - can also just *use* it
+
+##### NASTP Answers
+Q. Which buyers are increasingly becoming the dicison makers for 3rd plat apps?
+A. Line of business owners
+
+Q. Which 2 market trends are forcing traditional IT depts to transform?
+A. Cloud-Like
+A. Users are bypassing IT for on-demand 
+
+Q. What are three features of emerging datacentre?
+A. Software defined storage
+A. Self service
+A. Automation
+
+Q. Which NetApp technology enables you to use FAS systems running ONTAP software access data on 3rd party storage systems?
+A. Flex Array
+
+Q. Which ONTAP tech creates hybrid agg of hdd of ssd to improve?
+A. Flash Pool
+
+Q. ONTAP Select software provides which benefit?
+A. Converts DAS of comodity to enterprise storage
+
+Q. Which ONTAP feature enables admins set throughput
+A. Storage QoS
+
+Q. NetApp Volume Enc (NVE) provides which benefit?
+A. Does not require purpose built self encrypting drives
+
+Q. Which statement accurately describes an ONTAP FlexGroup volume?
+A. A FlexGroup Vol is a scale-out file system that is constructed from a group of FlexVol 
+
+Q. Which OnCommand product enables an org to use it's existing 3rd party mgmt software to manage an ONTAP env?
+A. OnCommand SLM
+
+Q. Which two benefits of OnCommand WFA?
+A. enables an org to adhere to storage best practice
+A. enables an org to provide storage as a service
+
+Q. How does OnCommand Insight help a customer to efficiently provision and plan purchases?
+A. Forecasting
+
+Q. An organization uses OnCommand Inishgt it's stg infra. IOPS >20 for >20ms.
+A. Creating a latency threshold policy
+
+Q. If a drive failure occurs which feature of SANtricity rebuild
+A. Dynamic Disk Pools
+
+Q. An org is eval block stg options for bznz app. The app gen IOP intensive. Which netApp stg sys should you recommend on a budget?
+A. E-Series
+
+Q. Which three target workflows benefit from E/EF?
+A. NoSQL
+A. Video anal
+A. B2D
+
+Q. What are two benefits of SANtricity?
+A. Provide enh snap
+A. Support automated SSD cache
+
+Q. Which 3 workloads benefit SF stg?
+A. Virt
+A. D&T
+A. DB
+
+Q. 3 use cases for SF?
+A. STGaaS
+A. DevOps
+A. App Consolidation
+
+Q. What statement describes iSCSI and FC con in SF?
+A. You can access a vol through iSCSI or FC at the same time
+
+Q. How does SF improve infra agi?
+A. Dynamic addition
+
+Q. SolidFire APi for automated mgmt 2 benefits?
+A. Integration
+A. Rapid deployment
+
+Q. EF storage systems benefit apps with which 2 features?
+A. Do much of data mgmt
+A. do not significantly benefit from data red technique
+
+Q. AFFAS benefit from which 2 feats?
+A. Benefit from data reduction
+A. Require low latency and robust data mgmt
+
+Q. SolidFire stg sys benefit customers which want to do 2 things?
+A. provide managed IT
+A. consolidate infra silo
+
+Q. FlexPod solution supports which orchestration and automation solution?
+A. Cisco UCS
+
+Q. FlexPod targets which 2 env?
+A. Enterprise Apps
+A. VDI
+
+Q. FlexPod with Infra Supports which HW comp?
+A UCS mini, Nexus 9k, FAS2500
+
+Q. 3 enterprise workloads for FlexPod
+A. SAP HANA, OpenStack, Hadpoop
+
+Q. An org wants to move it's data backup to the cloud. However some gov policy restrict backup to cloud?
+A. NetApp Private Storage for Cloud
+
+Q. ONTAP Cloud software provides which benefit?
+A. Enabled distro of workloads between on prem and cloud
+
+Q. Which 3 storagegrid protos?
+A. S3, Swift, CIFS
+
+Q. An org has AFF run ONTAP9.1, SnapMirror, AltaVault 4.3. Which NetApp prod enables org  to store data in cloud?
+A. SnapCenter
+
+Q. An org wants to backup data from PDC to Cloud. The org has low cost DR want to resume op.
+A. AltaVault
+
+Q. An org is eval NetApp for apps. The apps running on VMs are on ESXi. The guest are Win/Lin.
+A. Interop Matrix Tool
+
+Q. An org is eval NetApp FAS for bznz app. Which tool enables you to identify a HW config?
+A. SPM
+
+Q. An org wants to upgrade.
+A. Tech Refresh Tool
+
+Q. Synergy enabled you to perform 3 tasks.
+A. Created stg capacity mode, gen tech reports and diagrams, validate system design
